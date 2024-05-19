@@ -2,7 +2,7 @@ import pickle
 
 from address_book import AddressBook
 
-FILE_PKL = "addresbook.pkl"
+FILE_PKL = "addressbook.pkl"
 
 
 def save_data(book, filename=FILE_PKL):
